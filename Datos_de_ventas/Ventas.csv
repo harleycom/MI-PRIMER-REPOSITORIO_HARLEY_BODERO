@@ -1,1 +1,6 @@
-
+id_venta , producto , cantidad , precio
+1 , mando , 2 , 30
+2 , Mouse , 2 , 12
+3 , grafica , 3 , 600
+4 , Monitor , 2 , 300
+5 , Auriculares , 4 , 35
